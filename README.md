@@ -14,12 +14,12 @@ https://telemarketing-z4p8.onrender.com/
 
 ### Dependencias
 
-matplotlib==3.10.1
-pandas==2.2.3
-protobuf==5.28.3
-seaborn==0.13.2
-streamlit==1.39.0
-XlsxWriter==3.2.3
+- matplotlib==3.10.1
+- pandas==2.2.3
+- protobuf==5.28.3
+- seaborn==0.13.2
+- streamlit==1.39.0
+- XlsxWriter==3.2.3
 
 
 ## Fontes de inspiração
